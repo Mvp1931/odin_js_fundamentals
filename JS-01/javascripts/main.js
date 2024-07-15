@@ -28,7 +28,6 @@ let b = 7 * a;
 
 console.log(b);
 
-
 const MAX = 57;
 
 const actual = MAX - 13;
