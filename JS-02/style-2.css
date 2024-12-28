@@ -63,3 +63,12 @@ button {
     cursor: pointer;
     border-radius: 0.25rem;
 }
+
+a {
+    color: darkblue;
+    text-decoration: none;
+    background-color: thistle;
+    padding: 5px 10px;
+    border-radius: 0.75rem;
+    box-shadow: 1px 1px 1px black;
+}
