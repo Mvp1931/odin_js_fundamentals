@@ -2,6 +2,7 @@ body {
     margin: 0;
     padding: 0;
     overflow-y: scroll;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
 #home {
